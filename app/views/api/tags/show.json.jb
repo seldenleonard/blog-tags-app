@@ -1,0 +1,4 @@
+{
+  id: tag.id,
+  category: tag.category
+}
